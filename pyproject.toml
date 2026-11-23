@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "ragevals"
 version = "0.1.0"
-description = "Evaluación de calidad para sistemas RAG y LLM: recall@k, refusal, fugas, guardrails y gates para CI"
+description = "Evaluación de calidad para sistemas RAG, LLM y agentes: recall@k, trayectoria de herramientas, fugas, guardrails OWASP y gates para CI"
 readme = "README.md"
 license = { file = "LICENSE" }
 requires-python = ">=3.10"

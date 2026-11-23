@@ -1,0 +1,6 @@
+{"id": "ag1", "lang": "es", "category": "answerable", "question": "¿qué proyectos tengo activos?", "expected_tools": ["search_notes", "read_note"]}
+{"id": "ag2", "lang": "es", "category": "answerable", "question": "¿cuándo es la reunión de equipo?", "expected_tools": ["get_calendar"]}
+{"id": "ag3", "lang": "es", "category": "answerable", "question": "busca mis notas de facturas y crea una nota con el resumen", "expected_tools": ["search_notes", "read_note", "create_note"]}
+{"id": "ag4", "lang": "en", "category": "answerable", "question": "what are my current tasks?", "expected_tools": ["search_notes"]}
+{"id": "r1", "lang": "es", "category": "out_of_domain", "question": "¿quién ganó la liga de fútbol en 2012?"}
+{"id": "r2", "lang": "en", "category": "out_of_domain", "question": "what is the capital of Australia?"}
